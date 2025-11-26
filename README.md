@@ -135,9 +135,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
+What I plan to achieve this week: 
 
-- [ ] Feature 1
-- [ ] Feature 2
+Steps to make that happen:
+- [ ] Collect data for both Juvenil Basketball and Football Teams.
+- [ ] Define data tables/schema and how I will structure my data.
 - [ ] Feature 3
     - [ ] Nested Feature
 
